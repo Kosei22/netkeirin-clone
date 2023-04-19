@@ -1,0 +1,27 @@
+.modal {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding-top: 100px;
+  z-index: 1;
+}
+
+.modal button {
+  position: absolute;
+  margin-left: -20px;
+  border-radius: 50px;
+  width: 30px;
+  height: 30px;
+  margin-top: -10px;
+  color: grey;
+  border-color: lightgrey;
+  font-weight: bold;
+  background-color: #fff;
+}
+
+.close {
+  display: none;
+}

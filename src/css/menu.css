@@ -1,0 +1,121 @@
+.menu {
+  margin: 0;
+  padding: 0;
+  left: 0;
+  display: flex;
+}
+
+.menu-body {
+  width: 85%;
+  background-color: #fff;
+}
+
+.menu-top h3 {
+  margin: 10px;
+  padding-bottom: 10px;
+  color: #fff;
+}
+
+.menu-top span {
+  margin-left: 10px;
+}
+
+.menu-top {
+  background-color: #1296cab6;
+  padding-top: 120px;
+}
+
+.menu-middle {
+  text-align: center;
+}
+
+.menu-middle p {
+  width: 85%;
+  border-radius: 5px;
+  background-color: tomato;
+  color: #fff;
+  padding: 7px 0;
+  margin: 0 auto;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.menu-middle button {
+  width: 85%;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  color: dimgray;
+  padding: 7px 0;
+}
+
+.menu-middle input {
+  width: 85%;
+  border-radius: 5px;
+  border: none;
+  background-color: whitesmoke;
+  margin: 10px 0;
+  padding: 7px 0;
+}
+
+.menu-middle-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-middle-flex button {
+  width: 40%;
+  margin: 6px;
+}
+
+.menu-tip-button {
+  color: #e03d3d;
+}
+
+.menu-main {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.menu-main span {
+  margin-left: 15px;
+}
+
+.menu-main-top {
+  margin-left: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  width: 90%;
+}
+
+.menu-main-body {
+  border-bottom: rgba(0, 0, 0, 0.2) 1px solid;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.menu-main-body p {
+  margin-left: 20px;
+}
+
+.menu-main-bottom {
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.menu-bottom {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.menu-bottom span {
+  color: #e03d3d;
+}
+
+.menu-close h2 {
+  margin: 0;
+  color: #fff;
+  margin-left: 10px;
+  margin-top: 10px;
+}

@@ -1,0 +1,77 @@
+.tipstar-top h3 {
+  padding: 0 10px;
+  color: dimgray;
+}
+
+.tipstar-main {
+  width: 90%;
+  height: 230px;
+  content: none;
+  background-color: whitesmoke;
+  margin: 0 auto;
+}
+
+.tipstar-small {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.tipstar-small div {
+  width: 43%;
+  height: 50px;
+  background-color: whitesmoke;
+  content: none;
+  margin-top: 8px;
+}
+
+.backToTop {
+  float: right;
+  margin-top: 25px;
+  margin-right: 15px;
+}
+
+.backToTop button {
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  border-radius: 5px;
+  color: dimgray;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  font-size: 12px;
+  padding: 3px 7px;
+}
+.request {
+  margin: 0 auto;
+  margin-top: 90px;
+  width: 87%;
+  text-align: center;
+}
+
+.request p {
+  font-size: 14px;
+  color: dimgray;
+  margin: 0;
+}
+
+.request button {
+  padding: 10px 70px;
+  background-color: #fff;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: rgba(0, 0, 0, 0.3);
+  margin-top: 10px;
+}
+
+.netkeirin {
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  margin-top: 15px;
+}
+
+.netkeirin p {
+  margin: 0;
+  font-size: 12px;
+  padding: 7px 10px;
+  color: dimgray;
+}

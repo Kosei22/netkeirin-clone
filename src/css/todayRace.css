@@ -1,0 +1,35 @@
+.todayRace h3,
+h4 {
+  padding: 0 10px;
+  color: dimgray;
+}
+
+.todayRace h4 {
+  font-size: 16px;
+}
+
+.todayRace-details {
+  margin-left: 2.5px;
+}
+
+.race-detail {
+  border: dimgray 1px solid;
+  width: 20%;
+  padding: 4px;
+  border-radius: 5px;
+  float: left;
+  margin-left: 4px;
+  margin-bottom: 4px;
+}
+
+.race-detail h4 {
+  margin: 0;
+  text-align: center;
+}
+
+.race-detail p {
+  margin: 0;
+  text-align: center;
+  font-size: 13px;
+  color: dimgray;
+}
